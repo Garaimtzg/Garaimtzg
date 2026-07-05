@@ -1,16 +1,75 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.png" alt="Perfil de Garai" width="100%">
+</p>
 
-<!--
-**Garaimtzg/Garaimtzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 ¡Hola! Soy Garai
 
-Here are some ideas to get you started:
+Soy estudiante de ingeniería e investigador en formación. Me gusta cacharrear con datos, hardware y software para buscar soluciones que sirvan en el mundo real, conectando lo industrial con la inteligencia artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+| De dónde vengo | Qué hago ahora | Hacia dónde voy |
+| --- | --- | --- |
+| **Graduado en Industria Digital**<br> Universidad de Deusto | **Investigador**<br> Tecnalia | **Máster en Computación y Sistemas Inteligentes**<br> Empezando |
+
+</div>
+
+<br>
+<br>
+
+### 👨‍💻 A qué me dedico
+
+Gracias a la carrera he tocado un poco de todo y eso es justo lo que me gusta. Prefiero tener la visión completa de un proyecto, desde picar código hasta ver cómo funciona la máquina en la fábrica.
+
+<details>
+<summary>📂 **Lo que más me gusta hacer** (Despliega para ver más)</summary>
+<br>
+
+| Tema | Qué es lo que hago |
+| --- | --- |
+| **IoT Industrial y Edge computing** | Conectar máquinas y sacar datos útiles |
+| **IA y Mantenimiento Preventivo y Predictivo** | Usar datos para darles una utilidad real |
+| **Arquitecturas de datos** | Montar la base para que la información fluya bien |
+| **Desarrollo versátil** | Adaptarme a la tecnología que haga falta en cada momento |
+
+</details>
+
+<br>
+<br>
+
+### 🕹️ Cuando apago el ordenador
+
+No todo va a ser estar delante de una pantalla. Mis aficiones son mi forma de recargar pilas y mantener el foco.
+
+<details>
+<summary>🏔️ **Montaña y hierros**</summary>
+<br>
+
+Coronar cimas por el País Vasco y los Pirineos es mi mejor desconexión. En el pasado hice atletismo de alto rendimiento y esa disciplina me la llevo ahora a mis rutinas de fuerza en el gimnasio y a los proyectos del día a día.
+
+*   Última ruta lograda: Subida al Aratz y al Aitzgorri
+
+</details>
+
+<details>
+<summary>⚽ **Otras aficiones**</summary>
+<br>
+<div align="center">
+
+| **Deportivo Alavés** | **Universo Nintendo** | **Más cosas** |
+| --- | --- | --- |
+| Animando siempre en Mendizorroza | Jugando a los clásicos y esperando lo nuevo | Haciendo fotos, leyendo o ideando hamburguesas |
+
+</div>
+</details>
+
+<br>
+<br>
+
+---
+
+<p align="center">
+  <img src="//komarev.com/ghpvc/?username=Garaimtzg-github&label=VISITAS&color=0e75b6&style=flat-square" alt="Visitas al Perfil">
+</p>
