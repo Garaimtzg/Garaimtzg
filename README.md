@@ -4,7 +4,7 @@
 
 ## 👋 ¡Hola! Soy Garai Martínez de Santos Gómez
 
-Soy estudiante de ingeniería e investigador en formación. Me gusta cacharrear con datos, hardware y software para buscar soluciones que sirvan en el mundo real, conectando lo industrial con la inteligencia artificial.
+Soy estudiante de ingeniería e investigador en formación. Me gusta cacharrear con datos, hardware y software para buscar soluciones que sirvan en el mundo real, conectando lo industrial y lo informático.
 
 <br>
 
