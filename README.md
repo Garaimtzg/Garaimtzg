@@ -12,7 +12,7 @@ Soy estudiante de ingeniería e investigador en formación. Me gusta cacharrear 
 
 | De dónde vengo | Qué hago ahora | Hacia dónde voy |
 | --- | --- | --- |
-| **Graduado en Industria Digital**<br> Universidad de Deusto | **Investigador**<br> Tecnalia | **Máster en Computación y Sistemas Inteligentes**<br> Empezando |
+| **Graduado en Industria Digital**<br> Universidad de Deusto | **Investigador en formación Dual**<br> Tecnalia | **Máster en Computación y Sistemas Inteligentes**<br> Empezando |
 
 </div>
 
@@ -69,7 +69,3 @@ Coronar cimas por el País Vasco y los Pirineos es mi mejor desconexión. En el 
 <br>
 
 ---
-
-<p align="center">
-  <img src="//komarev.com/ghpvc/?username=Garaimtzg-github&label=VISITAS&color=0e75b6&style=flat-square" alt="Visitas al Perfil">
-</p>
