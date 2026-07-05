@@ -2,7 +2,7 @@
   <img src="assets/header.png" alt="Perfil de Garai" width="100%">
 </p>
 
-## 👋 ¡Hola! Soy Garai
+## 👋 ¡Hola! Soy Garai Martínez de Santos Gómez
 
 Soy estudiante de ingeniería e investigador en formación. Me gusta cacharrear con datos, hardware y software para buscar soluciones que sirvan en el mundo real, conectando lo industrial con la inteligencia artificial.
 
@@ -24,7 +24,7 @@ Soy estudiante de ingeniería e investigador en formación. Me gusta cacharrear 
 Gracias a la carrera he tocado un poco de todo y eso es justo lo que me gusta. Prefiero tener la visión completa de un proyecto, desde picar código hasta ver cómo funciona la máquina en la fábrica.
 
 <details>
-<summary>📂 **Lo que más me gusta hacer** (Despliega para ver más)</summary>
+<summary>📂 Lo que más me gusta hacer (Despliega para ver más)</summary>
 <br>
 
 | Tema | Qué es lo que hago |
@@ -44,7 +44,7 @@ Gracias a la carrera he tocado un poco de todo y eso es justo lo que me gusta. P
 No todo va a ser estar delante de una pantalla. Mis aficiones son mi forma de recargar pilas y mantener el foco.
 
 <details>
-<summary>🏔️ **Montaña y hierros**</summary>
+<summary>🏔️ Montaña y hierros</summary>
 <br>
 
 Coronar cimas por el País Vasco y los Pirineos es mi mejor desconexión. En el pasado hice atletismo de alto rendimiento y esa disciplina me la llevo ahora a mis rutinas de fuerza en el gimnasio y a los proyectos del día a día.
@@ -54,7 +54,7 @@ Coronar cimas por el País Vasco y los Pirineos es mi mejor desconexión. En el 
 </details>
 
 <details>
-<summary>⚽ **Otras aficiones**</summary>
+<summary>⚽ Otras aficiones</summary>
 <br>
 <div align="center">
 
