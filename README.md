@@ -21,7 +21,7 @@ Soy estudiante de ingeniería e investigador en formación. Me gusta cacharrear 
 
 ### 👨‍💻 A qué me dedico
 
-Gracias a la carrera he tocado un poco de todo y eso es justo lo que me gusta. Prefiero tener la visión completa de un proyecto, desde picar código hasta ver cómo funciona la máquina en la fábrica.
+Gracias a la carrera he tocado diversos campos industriales e informáticos y eso es justo lo que me gusta. Prefiero tener la visión completa de un proyecto y adaptarme a sus necesidades.
 
 <details>
 <summary>📂 Lo que más me gusta hacer (Despliega para ver más)</summary>
